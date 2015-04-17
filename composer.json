@@ -16,7 +16,6 @@
     "require": {
         "php": ">=5.3.3",
         "symfony/http-kernel": "~2.3",
-        "behat/transliterator": "~1.0",
         "jeroendesloovere/vcard": "dev-master"
     },
     "require-dev": {
