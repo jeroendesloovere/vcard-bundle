@@ -22,6 +22,6 @@
         "symfony/framework-bundle": "~2.3"
     },
     "autoload": {
-        "psr-4": { "JeroenDesloovere\\VCardBundle\\": "" }
+        "psr-4": { "JeroenDesloovere\\Bundle\\VCardBundle\\": "JeroenDesloovere/VCardBundle" }
     }
 }
