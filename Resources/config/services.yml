@@ -1,4 +1,4 @@
 services:
     jeroendesloovere.vcard:
-        class: JeroenDesloovere\VCardBundle\Component\VCard
+        class: JeroenDesloovere\VCard\VCard
         arguments: [ "@service_container" ]
