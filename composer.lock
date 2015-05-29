@@ -4,7 +4,7 @@
         "Read more about it at http://getcomposer.org/doc/01-basic-usage.md#composer-lock-the-lock-file",
         "This file is @generated automatically"
     ],
-    "hash": "58f47e97ab47771090086a95d0fb70ca",
+    "hash": "802182f3e45be5809ff48f5f79c8bf81",
     "packages": [
         {
             "name": "behat/transliterator",
@@ -52,12 +52,12 @@
             "source": {
                 "type": "git",
                 "url": "https://github.com/jeroendesloovere/vcard.git",
-                "reference": "7dca40b2e8d24f74c3ca6d77e973ee9ad6667ac0"
+                "reference": "48d657e8c91f1d8e7c216460cdf57009f013259c"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://api.github.com/repos/jeroendesloovere/vcard/zipball/7dca40b2e8d24f74c3ca6d77e973ee9ad6667ac0",
-                "reference": "7dca40b2e8d24f74c3ca6d77e973ee9ad6667ac0",
+                "url": "https://api.github.com/repos/jeroendesloovere/vcard/zipball/48d657e8c91f1d8e7c216460cdf57009f013259c",
+                "reference": "48d657e8c91f1d8e7c216460cdf57009f013259c",
                 "shasum": ""
             },
             "require": {
@@ -90,7 +90,7 @@
                 "php",
                 "vCard"
             ],
-            "time": "2015-03-10 07:30:34"
+            "time": "2015-04-21 07:06:22"
         },
         {
             "name": "psr/log",

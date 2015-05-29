@@ -1,7 +1,4 @@
-parameters:
-    jeroendesloovere.vcard.class: JeroenDesloovere\VCardBundle\Component\VCard
-
 services:
     jeroendesloovere.vcard:
-        class: %jeroendesloovere.vcard.class%
+        class: JeroenDesloovere\VCardBundle\Component\VCard
         arguments: [ "@service_container" ]
