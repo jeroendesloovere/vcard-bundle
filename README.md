@@ -7,7 +7,7 @@ A Symfony2 bundle for creating vCards. Which uses the [VCard class](https://gith
 
 In **composer.json**
 
-```yaml
+```json
 "require": {
     "jeroendesloovere/vcard-bundle": "1.0.*"
 }
