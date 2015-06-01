@@ -22,7 +22,7 @@ use Symfony\Component\DependencyInjection\Loader\YamlFileLoader;
  *
  * To learn more see {@link http://symfony.com/doc/current/cookbook/bundles/extension.html}
  */
-class VCardExtension extends Extension
+class JeroenDesloovereVCardExtension extends Extension
 {
     /**
      * {@inheritDoc}
