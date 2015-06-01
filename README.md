@@ -1,5 +1,5 @@
 # VCardBundle
-A Symfony2 bundle for creating vCards.
+A Symfony2 bundle for creating vCards. Which uses the [VCard class](https://github.com/jeroendesloovere/vcard).
 
 ## Usage
 
