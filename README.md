@@ -23,3 +23,12 @@ public function registerBundles()
     );
 }
 ```
+
+### Example
+
+```php
+$vcard = $this->get('jeroendesloovere.vcard');
+
+$vcard->addName('Jeroen', 'Desloovere');
+$vcard->download();
+```
