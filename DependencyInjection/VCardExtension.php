@@ -1,6 +1,6 @@
 <?php
 
-namespace JeroenDesloovere\VCardBundle\DependencyInjection;
+namespace JeroenDesloovere\Bundle\VCardBundle\DependencyInjection;
 
 /*
  * This file is part of the VCard bundle.
