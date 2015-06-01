@@ -1,6 +1,25 @@
 # VCardBundle
 A Symfony2 bundle for creating vCards.
 
-## This is a standalone bundle
+## Usage
 
-I transformed this bundle into a standalone bundle, [using this documentation](http://gnugat.github.io/2014/10/29/sf2-bundle-standalone.html).
+### Installation
+
+**In ```app/AppKernel.php```**
+```php
+    public function registerBundles()
+    {
+        $bundles = array(
+            // ...,
+            new JeroenDesloovere\Bundle\VCardBundle\JeroenDesloovereVCardBundle()
+        );
+    }
+```
+
+and in **composer.json**
+
+```yaml
+"require": {
+    "jeroendesloovere/vcard-bundle": "1.0.2.1"
+}
+```
