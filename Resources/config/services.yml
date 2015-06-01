@@ -1,4 +1,3 @@
 services:
     jeroendesloovere.vcard:
         class: JeroenDesloovere\VCard\VCard
-        arguments: [ "@service_container" ]
