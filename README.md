@@ -20,6 +20,6 @@ and in **composer.json**
 
 ```yaml
 "require": {
-    "jeroendesloovere/vcard-bundle": "1.0.2.1"
+    "jeroendesloovere/vcard-bundle": "1.0.*"
 }
 ```
