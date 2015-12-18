@@ -15,7 +15,6 @@
     ],
     "require": {
         "php": ">=5.3.3",
-        "symfony/http-kernel": "~2.3",
         "jeroendesloovere/vcard": "~1.2"
     },
     "require-dev": {
