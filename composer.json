@@ -18,7 +18,7 @@
         "jeroendesloovere/vcard": "~1.2"
     },
     "require-dev": {
-        "symfony/framework-bundle": "~2.3"
+        "symfony/framework-bundle": "~3.0"
     },
     "autoload": {
         "psr-4": { "JeroenDesloovere\\Bundle\\VCardBundle\\": "" }
