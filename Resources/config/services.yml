@@ -1,3 +1,5 @@
 services:
     jeroendesloovere.vcard:
         class: JeroenDesloovere\VCard\VCard
+    jeroendesloovere.vcardparser:
+        class: JeroenDesloovere\VCard\VCardParser
